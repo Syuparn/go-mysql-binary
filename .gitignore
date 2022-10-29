@@ -5,6 +5,8 @@
 *.so
 *.dylib
 
+go-mysql-binary
+
 # Test binary, built with `go test -c`
 *.test
 
